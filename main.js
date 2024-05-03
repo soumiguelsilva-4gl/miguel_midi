@@ -1,4 +1,4 @@
-//ALURA JavaScript AULA 05 - Buscando um Elemento
+// Teste ALURA JavaScript AULA 05 - Buscando um Elemento
 /*FUNCTION é uma rotina que executa uma procedimento atravez de uma ação
 function tocaSomPom (){ //Função para executar a tecla, se não o som seria executado sem ter clicado no botão - Executar tocaSomPom() no Console pra executar e testar
     document.querySelector('#som_tecla_pom').play();
